@@ -1,0 +1,8 @@
+bin/
+CMakeFiles/
+_deps/
+
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CMakeCache.txt
